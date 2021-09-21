@@ -2,63 +2,63 @@
   "products" : [
     {
       "id": 1,
-      "title": "Camisa branca",
+      "name": "Camisa branca",
       "price": 20.5
     },
     {
       "id": 2,
-      "title": "Bermuda azul",
+      "name": "Bermuda azul",
       "price": 15.45
     },
     {
       "id": 3,
-      "title": "Bermuda azul",
+      "name": "Bermuda azul",
       "price": 15.45
     },
     {
       "id": 4,
-      "title": "Sapato social",
+      "name": "Sapato social",
       "price": 50
     },
     {
       "id": 5,
-      "title": "Sapatenis",
+      "name": "Sapatenis",
       "price": 75
     },
     {
       "id": 6,
-      "title": "Teniz branco",
+      "name": "Teniz branco",
       "price": 60
     },
     {
       "id": 7,
-      "title": "Cinto de couro",
+      "name": "Cinto de couro",
       "price": 45
     },
     {
       "id": 8,
-      "title": "Calça jeans feminina",
+      "name": "Calça jeans feminina",
       "price": 75
     },
     {
       "id": 9,
-      "title": "Calça legge",
+      "name": "Calça legge",
       "price": 80
     },
     {
       "id": 10,
-      "title": "Blusa de frio",
+      "name": "Blusa de frio",
       "price": 69.7
     },
     {
       "id": 11,
-      "title": "Oculos escuro",
+      "name": "Oculos escuro",
       "price": 150
     },
     {
       "id": 12,
-      "title": "Calça infantil",
+      "name": "Calça infantil",
       "price": 30
     }
-  ]
+  ]  
 }
